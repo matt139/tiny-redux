@@ -1,0 +1,19 @@
+{
+  "name": "@matttelliott/tiny-redux",
+  "scope": "matttelliott",
+  "version": "1.0.2",
+  "description": "tiny redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/matttelliott/tiny-redux"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "Matt T Elliott",
+  "license": "MIT"
+}
