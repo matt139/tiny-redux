@@ -1,7 +1,7 @@
 {
   "name": "@matttelliott/tiny-redux",
   "scope": "matttelliott",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "tiny redux",
   "main": "index.js",
   "scripts": {
