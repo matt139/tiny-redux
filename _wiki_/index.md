@@ -1,3 +1,7 @@
+#writing/2022 #web-dev #javascript 
+
+up:: [[web-dev]]
+
 We can use the redux pattern for state management without importing any libraries.
 The redux pattern itself is very straightforward and can be easily implemented
 in plain javascript. All we need is store, some actions, some reducers, and a
